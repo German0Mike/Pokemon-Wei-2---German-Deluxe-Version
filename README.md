@@ -1,14 +1,7 @@
-╔══════════════════════════════════════════╗
-║   PKM Weiß 2 Hack von Der_Wanderer       ║
-╠══════════════════════════════════════════╣
-║- Pokemon Weiß 2 - German Deluxe          ║
-║- https://github.com/German0Mike          ║
-║- Version: 1.0                            ║
-║- Discord: https://discord.gg/nWBy35Crac  ║
-║- Komplett auf deutsch                    ║
-║- Erster deutscher BW 2 Hack              ║                                          
-║               ᶘ ᵒᴥᵒᶅ       2026          ║          
-╚══════════════════════════════════════════╝
+
+PKM Weiß 2 Hack von Der_Wanderer
+Discord: https://discord.gg/nWBy35Crac  
+
 
 - Deluxe Edition
 --> Alles mit nur einer Edition machbar und spielbar - Erster deutscher Romhack für Pokemon Weiß 2
