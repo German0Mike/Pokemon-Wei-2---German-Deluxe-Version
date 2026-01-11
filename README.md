@@ -2,73 +2,90 @@
 PKM Weiß 2 Hack von Der_Wanderer
 Discord: https://discord.gg/nWBy35Crac  
 
+- Ultimate Edition
+--> Alles mit nur einer Edition machbar und spielbar.
 
-- Deluxe Edition
---> Alles mit nur einer Edition machbar und spielbar - Erster deutscher Romhack für Pokemon Weiß 2
+--> Dieser Romhack ist für Spieler gedacht, die es schwer mögen. Allerdings auch für normale Spieler spielbar. Da viele 
+Sachen im Code vom originalen "Challengemodus" von Pokemon modifiziert wurde. Z.b. Die neuen Minigeschichten sind
+auch mit dem Standardmodus spielbar.
 
--> Dieser Romhack bietet drei Spielweisen an. Für jede Art von Spieler.
---> Hilfsmodus für Anfänger und Storyspieler
----> Standardmodus für Leute die normal spielen möchten. (Nicht alles ist geändert, aber alle Pokemon fangbar, einige andere
+--> Standardmodus für Leute die normal spielen möchten. (Nicht alles ist geändert, aber alle Pokemon fangbar, einige andere
 Kämpfe, "normale" Kämpfe mit veränderten Pokemon zum Teil.)
-----> Deluxemodus für Leute die es anspruchsvoll mögen. Ansprechende Kämpfe, Trainer haben mehr Pokemon usw.
+
+--> Ultimatemodus für Leute die es anspruchsvoll mögen. Ansprechende Kämpfe, Trainer haben mehr Pokemon usw. Volles Vergnügen
 
 
--> Normaler Schwierigkeitsgrad mit Veränderungen oder den "Deluxemodus" der deutlich schwieriger ist. 
---> Story unverändert aber mit QOL-Features und für alle den die Standardversionen zu leicht sind.
 
----> Unbedingt von Anfang an den Challengemodus aktivieren -  Um in den vollen Genuss diesem Hacks zu kommen <---
--------> Mit PKHex die Schlüssel freischalten oder einem Cheatcode <------- 
+--> Grundstory unverändert. Aber mit vielen kleinen selbstgeschrieben Texten und "Minigeschichten". Veränderte Charaktere.
+
+
+#################################################################################################################
+#--> Unbedingt von Anfang an den ULTIMATEMODUS aktivieren -  Um in den vollen Genuss diesem Hacks zu kommen <---#
+#-------------> Wurde bewusst so modifiziert <----------------              #
+#                                                                                                               #
+#                      >>>Mit PKHex die Schlüssel freischalten oder einem Cheatcode<<<                          #
+#################################################################################################################
 ----------------------------------------------------------------------------------------------------------------------------
 
 --->Starterauswahl<---
--In diesem Ordner findest du Fünf "Patches" mit der Bezeichnung Gen 1 bis 5. - Wähle nur eines zum Patchen.
-Diese definieren die Starterpokemon, mit denen du anfangen möchtest.
---> Gen 1 sind Bisasam, Schiggy und Glumanda
---> Gen 2 sind Feurigel, Endivie und Karnimani
---> Gen 3 sind Geckarbor, Flemmli und Hydropi
---> Gen 4 sind Chelast, Panflam und Plinfa
---> Gen 5 sind Ferkel, Serpifeu und Ottaro
+
+Ferkokel(Feuer), Serpifeu(Pflanze) und Ottaro(Wasser)
 
 -----> Die Wahl deines Elementstarter beeinflusst deinen Rivalen <-------
 --> Wählst du Feuer: Fokusiert sich dein Gegner im laufe des Spiels auf eine starke Verteidigung.
 --> Wählst du Wasser: Baut dein Rivale auf extremes Tempo und Stärke
 --> Wählst du Pflanze: Der Rivale baut ein völlig ausgeglichenes Team
 
-- Challengemodus erhöht die Level. KI und Movepool der Trainerkämpfe.
+
+- Sogut wie jeder Trainerkampf wurde modifiziert
+- Ultimatemodus erhöht die Level, Itembenutzung, KI und Movepool der Trainerkämpfe.
 - Lebendigere Trainerkämpfe, insbesondere die wichtigsten, für mehr Feeling. (Sprechen mehr in Kämpfe)
 - Arenaleiter haben mehr Pokemon(Ihre Coverpokemon bleiben - aber andere Fähigkeiten, Kampfitems oder Heilitems etc.)
 - Stratos City ist nun Lebendiger und hat bessere Zufallstexte. 
-- Team Plasma hat nun deutlich bessere Pokemon und bezogen auf einen speziellen Typen/Wesen
+- Team Plasma ist nun sehr ernstzunehmen.
 - Angepasste Texte und überarbeitetes Pokemon World Tournament mit besseren Ausrufen/Schreie für mehr echtes Stadiumfeeling.
-- Alle Pokemon fangbar/erhaltbar (Mit Entwicklungen: Nur die Vorstufen)
-- Verschiedene neue Texte
+- Alle Pokemon fangbar/erhaltbar (Pokemon die Weiterentwicklungen haben, meistens nur die Vorentwicklungen)
+- Jede menge verschiedene neue Texte im Spiel
 - Der Rivale, Bell und Prof. Esche haben fast komplett andere Texte im Spiel
 - Weniger "nutzlose" Items in der Welt verteilt und durch bessere ersetzt
 - Spezielle Trainerkämpfe die überaschend sehr starke Teams haben
-- Jeder Ball hat eine Fangrate von 50%
-- Suche dir dein "Patch" aus mit welchen Generationenstarter du anfangen möchtest. (Gen 1 bis Gen 5)
 - Zum Teil besseres Menüverstandnis und Beschreibungen
 - Fossilien kaufbar in Stratoscity
-- Evolutionssteine kaufbar in der Vapydro Stadt
+- Evolutionssteine kaufbar in Vapydrocity (2te Stadt) 
 - "Nach der Story" deutlich herausfordener und mehr zu tun
-- Legendäre Pokemon alle auf Route 1 fangbar. Aus "Balancegründen" sind alle auf Level 25 antreffbar. Um Sie selbst zuleveln.
+- Route 1 komplett überarbeitet
 - In Onion City gibt es nun Drei Arenaleiter die in "Rente" sind. Zu finden im Restaraunt. Überlege dir gut sie herauszufordern.
-- Komplett überarbeitet das Restaraunt. Neue Texte - neue kleine Nebengeschichte
+Komplett überarbeitet das Restaraunt. Neue Texte - neue kleine Nebengeschichte
 - Auf Route 1 befinden sich sehr starke Trainer. Sind gut ausweichbar, falls man noch nicht gegen die ankommt.
 - Nach der Route 1 gibt es gute Levelmöglichkeiten und starke wilde Pokemon.
 - Baumhaus/Schwarze Stadt sind deutlich schwieriger zu meistern. (Gibt ja immerhin Shiniys:])
 
+>>> Einige selbstgeschriebene Texte können Spuren von Humor erhalten!!!<<<
+
 ----------------------------------------------------------------------------------------------------------------------------
----> Alle Pokemon, die sich durch "reinen" Tausch entwickeln ohne Items, entwickeln sich ab Level 32 bis 36.
-(Z.b. Alpolle LvL 36-> Gegngar, Maschok LvL 36-> Maschomei usw.)
+---> Alle Pokemon, die sich durch "reinen" Tausch entwickeln ohne Items, entwickeln sich ab Level 29 bis 40.
+(Z.b. Alpollo LvL 40-> Gengar - Maschok LvL 40-> Machomei usw.)
 
 - Pokemon die sich durch Tausch mit einem Item entwickeln, sind nun entwickelbar, indem man das benötige Item wie einen
-Evolutionsstein benutzt. Z.b. Porygon -> Upgrade -> Porygon 2 etc.
+Evolutionsstein benutzt. 
+(Z.b. Porygon -> Upgrade -> Porygon 2 oder Rizeros -> Schützer -> Rihornier)
+
+
+-> Evoli
+Folipurba - Blattstein
+Aquana - Wasser
+Flammara - Feuerstein
+Blitza - Donnerstein
+Glaziola - Mondstein
+Nachtara - Finsterstein
+Psiana - Sonnenstein
 
 --> Diverse andere Pokemon.
-- Laukarps -> Lvl 25 -> Cavalanzars
-- Schnuthelm -> Lvl 25 -> Hydragil
+- Laukarps -> Lvl 29 -> Cavalanzars
+- Schnuthelm -> Lvl 29 -> Hydragil
 - Barschwa -> LvL 40 -> Milotic (Alternativ: Schönschuppe als "Evolutionsstein nutzen oder durch Schönheit entwickeln)
+
+Pokemon, die sich durch Freundschaft entwickeln sind beibehalten. Mit Ausnahme von Psiana und Nachtara.
 
 ----------------------------------------------------------------------------------------------------------------------------
 Fehlende Pokémon der 1 und 5 Generation
@@ -91,4 +108,3 @@ Fangbar Wasser und Gras
 Legendäre Pokemon aller Generationen die sonst nicht Erhaltbar sind. (Mewto, Mew oder Celebi etc.)
 - Alle auf Route 1. 
 Fangbar Wasser und Gras
-
