@@ -1,14 +1,11 @@
-╔══════════════════════════════════════════╗
-║   PKM Weiß 2 Hack von Der_Wanderer       ║
-╠══════════════════════════════════════════╣
-║- Pokemon Weiß 2 - German Ultimate Pro    ║
-║- https://github.com/German0Mike          ║
-║- Version: 3.0                            ║
-║- Discord: https://discord.gg/nWBy35Crac  ║
-║- Komplett auf deutsch                    ║
-║- Erster deutscher BW 2 Hack - Hartmodus  ║                                          
-║               ᶘ ᵒᴥᵒᶅ       2026          ║          
-╚══════════════════════════════════════════╝
+PKM Weiß 2 Hack von Der_Wanderer    
+- Pokemon Weiß 2 - German Ultimate Pro    
+- https://github.com/German0Mike          
+- Version: 3.0                            
+- Discord: https://discord.gg/nWBy35Crac
+- Komplett auf deutsch                   
+Erster deutscher BW 2 Hack - Hartmodus                                          
+
 
 Pokemon Weiss 2 - Ultimate Pro Edition
 -> Alles mit nur einer Edition machbar und spielbar.
